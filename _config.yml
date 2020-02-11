@@ -1,0 +1,8 @@
+title: Coursera-test
+description: coursera test repo
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
